@@ -11,7 +11,7 @@ class launch
 }
 void m2()
 {
-    system.out.println("enter value of a:");
+    system.out.println("enter value of a and b:");
 }
 
 }
