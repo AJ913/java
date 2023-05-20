@@ -2,6 +2,7 @@ class launch
 {
   void m1()
 {
-   //some code lines
+  system.out.println("HELLO WORLD");
+
 }
 }
