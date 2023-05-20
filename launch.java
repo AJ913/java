@@ -2,6 +2,11 @@ class launch
 {
   void m1()
 {
-   //some code lines
+   system.out.println("Hello java lovers");
 }
+void m2()
+{
+    system.out.println("Hello India ,I am learning java");
+}
+
 }
