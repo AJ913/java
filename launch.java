@@ -6,7 +6,7 @@ class launch
 }
 void m2()
 {
-    system.out.println("Hello India ,I am learning java");
+    system.out.println("enter value of a:");
 }
 
 }
